@@ -13,5 +13,5 @@ Also, one can use the online MATLAB available.
 
 ## License:
 
-Distributed under the GNU License. See <a href = "https://github.com/YashvardhanG/CNN/blob/main/LICENSE"> LICENSE </a> for more information.
+Distributed under the GNU License. See <a href = "https://github.com/MahekPavthawala/Adaptive_Noise_Cancellation/blob/main/LICENSE"> LICENSE </a> for more information.
 
