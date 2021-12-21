@@ -9,7 +9,7 @@ This project explains with the implementation and performance evaluation of adap
 MUST need MATLAB 2015a or greater version with DSP-Communication Toolbox and Visualization Toolbox
 Also, one can use the online MATLAB available.
 
-**Note= To use MATLAB, one might have to use institutional login or might have to work with free trial.
+**Note=** To use MATLAB, one might have to use institutional login or might have to work with free trial.
 
 ## Introduction
 
