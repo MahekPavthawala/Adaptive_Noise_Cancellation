@@ -11,6 +11,8 @@ Also, one can use the online MATLAB available.
 
 **Note=** To use MATLAB, one might have to use institutional login or might have to work with free trial.
 
+I advise to use the book of the Monson H. Hayes for the reference with the codes and the explaination. See <a href= 'https://bcs.wiley.com/he-bcs/Books?action=index&itemId=0471594318&bcsId=3698'> Statistical Digital Signal Processing and Modeling </a> for the more information.
+
 ## License:
 
 Distributed under the GNU License. See <a href = "https://github.com/MahekPavthawala/Adaptive_Noise_Cancellation/blob/main/LICENSE"> LICENSE </a> for more information.
